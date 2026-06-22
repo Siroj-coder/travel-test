@@ -103,8 +103,9 @@ const App = () => {
         </section>
       </main>
 
-      <footer className="bg-black text-white py-5 text-center mt-[100px]">
+      <footer className="bg-black px-[50px] text-white py-5 text-center mt-[100px]">
         salom bu footer qismi
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus asperiores similique nobis, dolor qui incidunt sunt hic nemo odit praesentium deleniti. Sed recusandae, consectetur est laborum veniam deserunt ducimus labore earum rem, qui aliquam ad libero quia, quo quos nihil voluptates ullam officia sit quidem? Asperiores impedit neque, excepturi repellendus fugiat, libero animi aspernatur vitae veniam iusto at est sapiente? Obcaecati nesciunt explicabo nobis, tenetur animi minima sit quasi soluta quidem, illum dolore ipsam alias molestias perferendis eligendi expedita ex magni. A placeat similique id culpa temporibus facilis nam atque veritatis molestiae, et aspernatur totam unde omnis suscipit sapiente ipsa.
       </footer>
     </div>
   );
