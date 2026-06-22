@@ -102,6 +102,10 @@ const App = () => {
           </div>
         </section>
       </main>
+
+      <footer className="bg-black text-white py-5 text-center mt-[100px]">
+        salom bu footer qismi
+      </footer>
     </div>
   );
 };
